@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <rect width="800" height="200" rx="14" fill="#c05621"/>
+  <text x="40" y="95" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="#ffffff">Incident Response Runbook</text>
+  <text x="40" y="140" font-family="Arial, sans-serif" font-size="20" fill="#e8f0ff">Detect, Respond, Recover</text>
+</svg>
